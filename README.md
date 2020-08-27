@@ -18,13 +18,11 @@ To play the game click here: https://suvam1997.github.io/PigzDice-1.0.1/
 - 1 vs 1 Gamming
 - Easy UI
 
-A. Application Preview
-=====
+## A. Application Preview ##
 
 ![Preview_PigxDice_1 0 0](https://user-images.githubusercontent.com/53318366/91453994-0d124780-e89e-11ea-9c6c-3d557077cd9c.gif)
 
-B. Code Preview
-=====
+## B. Code Preview ##
 
 ### 1. index.html ###
 
