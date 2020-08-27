@@ -27,15 +27,16 @@ Code Preview
 ====
 
 ### index.html ###
-![index](https://user-images.githubusercontent.com/53318366/91442671-d59c9e80-e88f-11ea-92cd-e548fd62079e.png)
+
+![index](https://user-images.githubusercontent.com/53318366/91454337-742ffc00-e89e-11ea-9fe3-a7b8a8848d0d.png)
 
 ### style.css ###
 
-![style](https://user-images.githubusercontent.com/53318366/91442678-d7666200-e88f-11ea-8715-c6e13609b86e.png)
+![style](https://user-images.githubusercontent.com/53318366/91454340-75612900-e89e-11ea-9c9b-bb7e895f9b12.png)
 
 ### app.js ###
 
-![app](https://user-images.githubusercontent.com/53318366/91442652-cf0e2700-e88f-11ea-9a8e-2011a0c1a0eb.png)
+![app](https://user-images.githubusercontent.com/53318366/91454327-71cda200-e89e-11ea-913b-aa7bae686998.png)
 
 ### query.js ###
 
