@@ -1,7 +1,8 @@
 PigzDice_1.0.1
 ====
 #### PigzDice_1.0.0 is a simple dice game designed by Suvam Das using HTML, CSS, JavaScript and Jquery. ####
-https://suvam1997.github.io/PigzDice-1.0.1/
+
+To play the game click here: https://suvam1997.github.io/PigzDice-1.0.1/
 
 
 ### GAME RULES ###
@@ -20,7 +21,7 @@ https://suvam1997.github.io/PigzDice-1.0.1/
 Application Preview
 =====
 
-![Preview_PigxDice_1 0 1](https://user-images.githubusercontent.com/53318366/91453258-24046a00-e89d-11ea-8f1e-4f87dcd0ad76.gif)
+![Preview_PigxDice_1 0 0](https://user-images.githubusercontent.com/53318366/91453994-0d124780-e89e-11ea-9c6c-3d557077cd9c.gif)
 
 Code Preview
 ====
