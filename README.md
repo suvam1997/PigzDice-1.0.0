@@ -18,26 +18,26 @@ To play the game click here: https://suvam1997.github.io/PigzDice-1.0.1/
 - 1 vs 1 Gamming
 - Easy UI
 
-Application Preview
+A. Application Preview
 =====
 
 ![Preview_PigxDice_1 0 0](https://user-images.githubusercontent.com/53318366/91453994-0d124780-e89e-11ea-9c6c-3d557077cd9c.gif)
 
-Code Preview
-====
+B. Code Preview
+=====
 
-### index.html ###
+### 1. index.html ###
 
 ![index](https://user-images.githubusercontent.com/53318366/91454337-742ffc00-e89e-11ea-9fe3-a7b8a8848d0d.png)
 
-### style.css ###
+### 2. style.css ###
 
 ![style](https://user-images.githubusercontent.com/53318366/91454340-75612900-e89e-11ea-9c9b-bb7e895f9b12.png)
 
-### app.js ###
+### 3. app.js ###
 
 ![app](https://user-images.githubusercontent.com/53318366/91454327-71cda200-e89e-11ea-913b-aa7bae686998.png)
 
-### query.js ###
+### 4. query.js ###
 
 ![quey](https://user-images.githubusercontent.com/53318366/91442676-d6cdcb80-e88f-11ea-9db2-b3b73626bcff.png)
