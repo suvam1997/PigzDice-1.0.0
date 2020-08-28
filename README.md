@@ -15,8 +15,8 @@ To play the game click here: https://suvam1997.github.io/PigzDice-1.0.0/
 
 ### Version 1.0.0 features ###
 
-- 1 vs 1 Gamming
-- Easy UI
+- 1 vs 1 Gamming (Not Online Multiplayer)
+- Easy and User-Friendly UI
 
 ----------
 
