@@ -41,3 +41,11 @@ To play the game click here: https://suvam1997.github.io/PigzDice-1.0.0/
 ### 4. query.js ###
 
 ![quey](https://user-images.githubusercontent.com/53318366/91442676-d6cdcb80-e88f-11ea-9db2-b3b73626bcff.png)
+
+C. Contact Me:
+=====
+
+* email: suvamdas27@gmail.com
+* instagram: https://www.instagram.com/mesuvam
+* linkedin: https://www.linkedin.com/in/suvam-das-81b3b2154/
+* facebook: https://www.facebook.com/chondro.bindu.chand.1997/
